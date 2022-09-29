@@ -29,7 +29,7 @@ _Dialectica completion & dialectica logical principles_. [26th Yorkshire and Mid
 
 _Dialectica completion & Gödel fibrations_. [2nd ItaCa Workshop](https://genoa-logic-group.github.io/itaca-workshop-2021/). Genoa. December 2021.
 
-_Dialectica logical principles_. [Eighth Symposium on Compositional Structures](https://www.cl.cam.ac.uk/events/syco/8/). Tallin. December 2021.
+_Dialectica logical principles_. [Eighth Symposium on Compositional Structures](https://www.cl.cam.ac.uk/events/syco/8/). Tallinn. December 2021.
 
 _Regular (first-order) logic symbols & doctrines_. Groningen Mathematics PhD Seminar. Groningen. October 2021.
 
