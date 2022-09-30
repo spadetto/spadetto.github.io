@@ -35,4 +35,4 @@ My research topics are: (hyper)doctrines / fibrations; quantifier completions of
 
 
 
-## ![cuckoo's](cuckoo's.jpg)
+### ![cuckoo's](cuckoo's.jpg)
