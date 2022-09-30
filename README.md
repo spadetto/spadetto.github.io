@@ -32,5 +32,7 @@ My research topics are: (hyper)doctrines / fibrations; quantifier completions of
 - [Mathematics Stack Exchange account](https://math.stackexchange.com/users/531071/matteo-spadetto?tab=profile)
 
 
-### Et unus super nido cuculi volavit
-![cuckoo's](cuckoo's.jpg)
+
+
+![cuckoo's](cuckoo's.jpg)  
+_one flew east, one flew west_
