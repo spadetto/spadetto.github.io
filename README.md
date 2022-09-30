@@ -9,6 +9,7 @@ My research topics are: (hyper)doctrines / fibrations; quantifier completions of
 
 
 ### Publications and preprints
+- _On Propositional Type Theory_. In preparation.
 - _Dialectica Principles via Gödel Doctrines_. [2205.07093v1](https://arxiv.org/abs/2205.07093). Submitted. Together with Davide Trotta and Valeria de Paiva. May 2022.
 - _Dialectica Logical Principles_. [2109.08064v1](https://arxiv.org/abs/2109.08064). Logical Foundations of Computer Science 2022. [Springer Link](https://link.springer.com/chapter/10.1007/978-3-030-93100-1_22). Together with Davide Trotta and Valeria de Paiva. September 2021.
 - _The Gödel Fibration_. LIPIcs, volume 202, proceedings of Mathematical Foundations of Computer Science 2021. [LIPIcs Link](https://drops.dagstuhl.de/opus/volltexte/2021/14527/). Together with Davide Trotta and Valeria de Paiva. August 2021.
