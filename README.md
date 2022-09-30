@@ -34,5 +34,4 @@ My research topics are: (hyper)doctrines / fibrations; quantifier completions of
 
 
 
-![cuckoo's](cuckoo's.jpg)  
-_one flew east, one flew west_
+![cuckoo's](cuckoo's.jpg)
