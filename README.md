@@ -5,7 +5,7 @@
 
 I am a PhD student working on categorical logic and homotopy type theory at the School of Mathematics of the University of Leeds (UK), supervised by Nicola Gambino, Federico Olimpieri and Michael Rathjen. Prior to that, I studied pure mathematics at the University of Trento (IT) and at Utrecht University (NL).
 
-My research topics are: (hyper)doctrines / fibrations; quantifier completions of doctrines / simple (co)product completions of fibrations; categorical semantics for (fragments of) first order logic; dialectica construction; propositional type theory; categorical semantics for type theories.
+My research topics are: (hyper)doctrines / fibrations; quantifier completions of doctrines / simple (co)product completions of fibrations; categorical semantics for (fragments of) first order logic; dialectica construction; propositional type theory; categorical semantics for dependent type theories.
 
 
 ### Publications and preprints
