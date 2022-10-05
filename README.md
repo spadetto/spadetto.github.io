@@ -28,9 +28,10 @@ My research topics are: (hyper)doctrines / fibrations; quantifier completions of
 - _Quantifier completions of doctrines_. [Categories and Companions Symposium 2021](http://web.science.mq.edu.au/groups/coact/seminar/CaCS2021/). Sydney. [YouTube Recording](https://www.youtube.com/watch?v=1RajMGazetE&t=953s). June 2021.
 
 
-### Some links
+### Links and other stuff
 - [Leeds SoM account](https://eps.leeds.ac.uk/maths/pgr/8476/matteo-spadetto)
 - [Mathematics Stack Exchange account](https://math.stackexchange.com/users/531071/matteo-spadetto?tab=profile)
+- [Some _sciarade_ (charades)](Sciarade.pdf)
 
 
 
