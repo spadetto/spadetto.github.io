@@ -17,19 +17,20 @@ My research topics are: (hyper)doctrines / fibrations; quantifier completions of
 - _Quantifier completions, choice principles and applications_. [2010.09111v3](https://arxiv.org/abs/2010.09111v3). Submitted. Together with Davide Trotta. October 2020.
 
 
-### Talks
+### Some talks
 - _Dialectica: fibrations and logical principles_. [Applied Category Theory 2022](https://msp.cis.strath.ac.uk/act2022/). Glasgow. [YouTube Recording](https://youtu.be/vbEtgFRiJ7U?t=18330). [Slides](https://msp.cis.strath.ac.uk/act2022/slides/ACT2022_slides_8242.pdf). July 2022.
 - _Towards the notion of Propositional Dependent Sum Types_. Proofs, Constructions, Computations and Categories. Leeds. February 2022.
 - _Dialectica completion & dialectica logical principles_. [26th Yorkshire and Midlands Category Theory Seminar](https://conferences.leeds.ac.uk/yamcats/meeting-26/). Birmingham. [Slides](http://conferences.leeds.ac.uk/yamcats/wp-content/uploads/sites/84/2022/04/yamcats-26-spadetto.pdf). January 2022.
 - _Dialectica completion & Gödel fibrations_. [2nd ItaCa Workshop](https://genoa-logic-group.github.io/itaca-workshop-2021/). Genoa. December 2021.
 - _Dialectica logical principles_. [Eighth Symposium on Compositional Structures](https://www.cl.cam.ac.uk/events/syco/8/). Tallinn. December 2021.
+- _On the notions of exact completion_. Leeds Postgraduate Logic Seminar. Leeds. November 2021.
 - _Existential, universal and dialectica completion_. Proofs, Constructions, Computations and Categories. Leeds. November 2021.
 - _Regular (first-order) logic symbols & doctrines_. Groningen Mathematics PhD Seminar. Groningen. October 2021.
 - _The Gödel Fibration_. [Applied Category Theory 2021](https://www.cl.cam.ac.uk/events/act2021/). Cambridge. [Poster](https://www.cl.cam.ac.uk/events/act2021/slides/ACT_2021_slides_21.pdf). July 2021.
 - _Quantifier completions of doctrines_. [Categories and Companions Symposium 2021](http://web.science.mq.edu.au/groups/coact/seminar/CaCS2021/). Sydney. [YouTube Recording](https://www.youtube.com/watch?v=1RajMGazetE&t=953s). June 2021.
 
 
-### Links and other stuff
+### Some links and other stuff
 - [Leeds SoM account](https://eps.leeds.ac.uk/maths/pgr/8476/matteo-spadetto)
 - [Mathematics Stack Exchange account](https://math.stackexchange.com/users/531071/matteo-spadetto?tab=profile)
 - [ResearchGate account](https://www.researchgate.net/profile/Matteo-Spadetto)
