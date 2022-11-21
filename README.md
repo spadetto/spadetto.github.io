@@ -35,6 +35,7 @@ My research topics are: (hyper)doctrines / fibrations; quantifier completions of
 - [Mathematics Stack Exchange account](https://math.stackexchange.com/users/531071/matteo-spadetto?tab=profile)
 - [ResearchGate account](https://www.researchgate.net/profile/Matteo-Spadetto)
 - [An introduction to TQFT](TQFT.pdf)
+- [Master's thesis](Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf)
 - [Some _sciarade_ (charades)](Sciarade.pdf)
 
 
