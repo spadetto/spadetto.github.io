@@ -1,6 +1,6 @@
 ## Matteo Spadetto
 
-- **mmmsp AT leeds DOT ac DOT uk**
+- **m DOT spadetto AT leeds DOT ac DOT uk**
 - **matteo DOT spadetto DOT 42 AT gmail DOT com**
 
 I am a PhD student working on categorical logic and homotopy type theory at the School of Mathematics of the University of Leeds (UK), supervised by Nicola Gambino, [Federico Olimpieri](https://lipn.univ-paris13.fr/~olimpieri/) and Michael Rathjen. Prior to that, I studied pure mathematics at the University of Trento (IT) and at Utrecht University (NL), supervised by Stefano Baratella and Jaap van Oosten.
