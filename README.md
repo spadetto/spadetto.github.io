@@ -18,6 +18,7 @@ My research topics are: (hyper)doctrines / fibrations; quantifier completions of
 
 
 ### Some talks
+- _A conservativity-like result for a propositional type theory_. [3rd ItaCa Workshop](https://progetto-itaca.github.io/ItaCa-22/). Pisa. December 2022.
 - _Dialectica: fibrations and logical principles_. [Applied Category Theory 2022](https://msp.cis.strath.ac.uk/act2022/). Glasgow. [YouTube Recording](https://youtu.be/vbEtgFRiJ7U?t=18330). [Slides](https://msp.cis.strath.ac.uk/act2022/slides/ACT2022_slides_8242.pdf). July 2022.
 - _Towards the notion of Propositional Dependent Sum Types_. Proofs, Constructions, Computations and Categories. Leeds. February 2022.
 - _Dialectica completion & dialectica logical principles_. [26th Yorkshire and Midlands Category Theory Seminar](https://conferences.leeds.ac.uk/yamcats/meeting-26/). Birmingham. [Slides](http://conferences.leeds.ac.uk/yamcats/wp-content/uploads/sites/84/2022/04/yamcats-26-spadetto.pdf). January 2022.
