@@ -11,8 +11,7 @@ My research topics are: (hyper)doctrines / fibrations; quantifier completions of
 ### Publications and preprints
 - _A relative conservativity result for propositional type theories_. In preparation.
 - _Dialectica Principles via Gödel Doctrines_. [2205.07093v1](https://arxiv.org/abs/2205.07093). Theoretical Computer Science. To appear. Together with [Davide Trotta](https://trottadavide.github.io/) and Valeria de Paiva. May 2022.
-- _Dialectica logical principles: not only rules_. Journal of Logic and Computation (LFCS 2022 post-conference volume). Together with Davide Trotta and Valeria de Paiva. March 2022.
-- _Dialectica logical principles_. [2109.08064v1](https://arxiv.org/abs/2109.08064). Logical Foundations of Computer Science 2022. [Springer Link](https://link.springer.com/chapter/10.1007/978-3-030-93100-1_22). Together with Davide Trotta and Valeria de Paiva. September 2021.
+- _Dialectica logical principles_. [2109.08064v1](https://arxiv.org/abs/2109.08064). Logical Foundations of Computer Science 2022. [Springer Link](https://link.springer.com/chapter/10.1007/978-3-030-93100-1_22). Extended version: _Dialectica logical principles: not only rules_. Journal of Logic and Computation (LFCS 2022 post-conference volume). Together with Davide Trotta and Valeria de Paiva. September 2021.
 - _The Gödel fibration_. LIPIcs, volume 202, proceedings of Mathematical Foundations of Computer Science 2021. [LIPIcs Link](https://drops.dagstuhl.de/opus/volltexte/2021/14527/). Together with Davide Trotta and Valeria de Paiva. August 2021.
 - _The Gödel fibration_, extended version. [2104.14021v1](https://arxiv.org/abs/2104.14021). Some of the contents published in LIPIcs, volume 202, proceedings of MFCS 2021. Together with Davide Trotta and Valeria de Paiva. April 2021.
 - _Quantifier completions, choice principles and applications_. [2010.09111v3](https://arxiv.org/abs/2010.09111v3). Submitted. Together with Davide Trotta. October 2020.
