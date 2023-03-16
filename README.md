@@ -30,8 +30,6 @@ My research topics are: (hyper)doctrines / fibrations; quantifier completions of
 - _The Gödel Fibration_. [Applied Category Theory 2021](https://www.cl.cam.ac.uk/events/act2021/). [Poster](https://www.cl.cam.ac.uk/events/act2021/slides/ACT_2021_slides_21.pdf). Cambridge, July 2021.
 - _Quantifier completions of doctrines_. [Categories and Companions Symposium 2021](http://web.science.mq.edu.au/groups/coact/seminar/CaCS2021/). [YouTube Recording](https://www.youtube.com/watch?v=1RajMGazetE&t=953s). Sydney, June 2021.
 
-blabla
-
 
 ### Some links and other stuff
 - [Leeds SoM account](https://eps.leeds.ac.uk/maths/pgr/8476/matteo-spadetto)
