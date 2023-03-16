@@ -14,7 +14,7 @@ My research topics are: (hyper)doctrines / fibrations; quantifier completions of
 - _Dialectica logical principles_. [2109.08064v1](https://arxiv.org/abs/2109.08064). [Proceedings of Logical Foundations of Computer Science 2022](https://link.springer.com/chapter/10.1007/978-3-030-93100-1_22). September 2021. Extended version: _Dialectica logical principles: not only rules_. [Journal of Logic and Computation (LFCS 2022 post-conference volume)](https://academic.oup.com/logcom/advance-article/doi/10.1093/logcom/exac079/6795172?searchresult=1). March 2022. Together with Davide Trotta and Valeria de Paiva.
 - _The Gödel fibration_. [Proceedings of Mathematical Foundations of Computer Science 2021](https://drops.dagstuhl.de/opus/volltexte/2021/14527/). August 2021. Together with Davide Trotta and Valeria de Paiva.
 - _The Gödel fibration_, extended version. [2104.14021v1](https://arxiv.org/abs/2104.14021). Some of the contents published in the Proceedings of MFCS 2021. April 2021. Together with Davide Trotta and Valeria de Paiva.
-- _Quantifier completions, choice principles and applications_. [2010.09111v3](https://arxiv.org/abs/2010.09111v3). Submitted. October 2020. Together with Davide Trotta.tt
+- _Quantifier completions, choice principles and applications_. [2010.09111v3](https://arxiv.org/abs/2010.09111v3). Submitted. October 2020. Together with Davide Trotta.
 
 
 ### Some talks
