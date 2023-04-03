@@ -25,6 +25,7 @@ My research topics are: (hyper)doctrines / fibrations; quantifier completions of
 
 
 ### Some talks
+- _Propositional dependent type theories: a conservativity result for homotopy elementary types_. [Homotopy Type Theory 2023](https://hott.github.io/HoTT-2023//). Pittsburgh, May 2023.
 - _A conservativity-like result for a propositional type theory_. [3rd ItaCa Workshop](https://progetto-itaca.github.io/ItaCa-22/). [YouTube Recording](https://www.youtube.com/watch?v=y03fvYo_GRQ). Pisa, December 2022.
 - _Dialectica: fibrations and logical principles_. [Applied Category Theory 2022](https://msp.cis.strath.ac.uk/act2022/). [YouTube Recording](https://youtu.be/vbEtgFRiJ7U?t=18330). [Slides](https://msp.cis.strath.ac.uk/act2022/slides/ACT2022_slides_8242.pdf). Glasgow, July 2022.
 - _Towards the notion of Propositional Dependent Sum Types_. Proofs, Constructions, Computations and Categories. Leeds, February 2022.
