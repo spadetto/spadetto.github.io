@@ -51,3 +51,8 @@ My research topics are: (hyper)doctrines / fibrations; quantifier completions of
 
 
 ### ![cuckoo's](cuckoo's.jpg)
+
+
+
+
+### ![asaf3](asaf3.jpg)
