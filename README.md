@@ -31,6 +31,12 @@ My research topics are: (hyper)doctrines / fibrations; quantifier completions of
 - _Quantifier completions of doctrines_. [Categories and Companions Symposium 2021](http://web.science.mq.edu.au/groups/coact/seminar/CaCS2021/). [YouTube Recording](https://www.youtube.com/watch?v=1RajMGazetE&t=953s). Sydney, June 2021.
 
 
+### Visiting activities
+
+- **ILLC, Amsterdam**, the Netherlands. _Host_ Benno van den Berg. April-May 2023.
+- **University of Padua**, Italy. _Host_ Maria Emilia Maietti. December 2022.
+
+
 ### Some links and other stuff
 - [Leeds SoM account](https://eps.leeds.ac.uk/maths/pgr/8476/matteo-spadetto)
 - [Google Scholar account](https://scholar.google.com/citations?user=gTJ-1CwAAAAJ&hl=en)
