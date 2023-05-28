@@ -24,7 +24,7 @@ I am a PhD student working on categorical logic and homotopy type theory at the 
 
 ### Some talks
 - _Strictifying Path Categories_. [Workshop on Doctrines & Fibrations](https://events.math.unipd.it/WDF2023/). Padua, June 2023.
-- _Propositional dependent type theories: a conservativity result for homotopy elementary types_. [Homotopy Type Theory 2023](https://hott.github.io/HoTT-2023//). Pittsburgh, May 2023.
+- _Propositional dependent type theories: a conservativity result for homotopy elementary types_. [Homotopy Type Theory 2023](https://hott.github.io/HoTT-2023//). [Slides]([http://conferences.leeds.ac.uk/yamcats/wp-content/uploads/sites/84/2022/04/yamcats-26-spadetto.pdf](https://hott.github.io/HoTT-2023/slides/spadetto.pdf)). Pittsburgh, May 2023.
 - _Weak type theories: a conservativity result for homotopy elementary types_. [DutchCATS](https://dutchcats.github.io/). Amsterdam, May 2023.
 - _A conservativity-like result for a propositional type theory_. [3rd ItaCa Workshop](https://progetto-itaca.github.io/ItaCa-22/). [YouTube Recording](https://www.youtube.com/watch?v=y03fvYo_GRQ). Pisa, December 2022.
 - _Dialectica: fibrations and logical principles_. [Applied Category Theory 2022](https://msp.cis.strath.ac.uk/act2022/). [YouTube Recording](https://youtu.be/vbEtgFRiJ7U?t=18330). [Slides](https://msp.cis.strath.ac.uk/act2022/slides/ACT2022_slides_8242.pdf). Glasgow, July 2022.
