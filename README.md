@@ -40,9 +40,16 @@ I am a PhD student working on categorical logic and homotopy type theory at the 
 
 
 ### Visiting activities
-
 - **ILLC, Amsterdam**, the Netherlands. _Host_ Benno van den Berg. April-May 2023.
 - **University of Padua**, Italy. _Host_ Maria Emilia Maietti. December 2022.
+
+
+### Collaborators
+- Benno van den Berg
+- Valeria de Paiva
+- Emanuele Frittaion
+- Daniël Otten
+- Davide Trotta
 
 
 ### Some links and other stuff
