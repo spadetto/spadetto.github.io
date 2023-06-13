@@ -23,7 +23,7 @@ I am a PhD student working on categorical logic and homotopy type theory at the 
 
 
 ### Some talks
-- _Strictifying Path Categories_. [Workshop on Doctrines & Fibrations](https://events.math.unipd.it/WDF2023/). [YouTube Recording](https://www.youtube.com/watch?v=a6JNebaYXgU&list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R&index=13). Padua, June 2023.
+- _Strictifying Path Categories_. [Workshop on Doctrines & Fibrations](https://events.math.unipd.it/WDF2023/). [YouTube Recording](https://www.youtube.com/watch?v=a6JNebaYXgU&list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R&index=13). [Slides](https://events.math.unipd.it/WDF2023/slides/SPADETTO.pdf). Padua, June 2023.
 - _Propositional dependent type theories: a conservativity result for homotopy elementary types_. [Homotopy Type Theory 2023](https://hott.github.io/HoTT-2023//). [Slides](https://hott.github.io/HoTT-2023/slides/spadetto.pdf). Pittsburgh, May 2023.
 - _Weak type theories: a conservativity result for homotopy elementary types_. [DutchCATS](https://dutchcats.github.io/). Amsterdam, May 2023.
 - _A conservativity-like result for a propositional type theory_. [3rd ItaCa Workshop](https://progetto-itaca.github.io/ItaCa-22/). [YouTube Recording](https://www.youtube.com/watch?v=y03fvYo_GRQ). Pisa, December 2022.
