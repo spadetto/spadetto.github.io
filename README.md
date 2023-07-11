@@ -22,13 +22,14 @@ I am a PhD student working on categorical logic and homotopy type theory at the 
 - _Quantifier completions, choice principles and applications_ [[2010.09111v3]](https://arxiv.org/abs/2010.09111v3). Submitted. October 2020. Together with Davide Trotta.
 
 
-### Some talks
+### Talks in conferences and workshops
 - _What is a dependent type theory?_ [Leeds Maths PGR Conference 2023](https://leeds-maths-pgr.github.io/conf-2023/). Leeds, June 2023.
 - _Strictifying Path Categories_. [Workshop on Doctrines & Fibrations](https://events.math.unipd.it/WDF2023/). [YouTube Recording](https://www.youtube.com/watch?v=a6JNebaYXgU&list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R&index=13). [Slides](https://events.math.unipd.it/WDF2023/slides/SPADETTO.pdf). Padua, June 2023.
 - _Propositional dependent type theories: a conservativity result for homotopy elementary types_. [Homotopy Type Theory 2023](https://hott.github.io/HoTT-2023//). [Slides](https://hott.github.io/HoTT-2023/slides/spadetto.pdf). Pittsburgh, May 2023.
 - _Weak type theories: a conservativity result for homotopy elementary types_. [DutchCATS](https://dutchcats.github.io/). Amsterdam, May 2023.
 - _A conservativity-like result for a propositional type theory_. [3rd ItaCa Workshop](https://progetto-itaca.github.io/ItaCa-22/). [YouTube Recording](https://www.youtube.com/watch?v=y03fvYo_GRQ). Pisa, December 2022.
 - _Dialectica: fibrations and logical principles_. [Applied Category Theory 2022](https://msp.cis.strath.ac.uk/act2022/). [YouTube Recording](https://youtu.be/vbEtgFRiJ7U?t=18330). [Slides](https://msp.cis.strath.ac.uk/act2022/slides/ACT2022_slides_8242.pdf). Glasgow, July 2022.
+- _Propositional in Dependent Type Theory_. [Leeds Maths PGR Conference 2022]([https://leeds-maths-pgr.github.io/conf-2023/](https://sites.google.com/view/som-pgr-conference22/home?authuser=0)). Leeds, June 2022.
 - _Towards the notion of Propositional Dependent Sum Types_. Proofs, Constructions, Computations and Categories. Leeds, February 2022.
 - _Dialectica completion & dialectica logical principles_. [26th Yorkshire and Midlands Category Theory Seminar](https://conferences.leeds.ac.uk/yamcats/meeting-26/). [Slides](http://conferences.leeds.ac.uk/yamcats/wp-content/uploads/sites/84/2022/04/yamcats-26-spadetto.pdf). Birmingham, January 2022.
 - _Dialectica completion & Gödel fibrations_. [2nd ItaCa Workshop](https://genoa-logic-group.github.io/itaca-workshop-2021/). Genoa, December 2021.
