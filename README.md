@@ -62,9 +62,15 @@ I am a PhD student working on categorical logic and homotopy type theory at the 
 - [ResearchGate account](https://www.researchgate.net/profile/Matteo-Spadetto)
 - [ORCID](https://orcid.org/0000-0002-6495-7405)
 - [Mathematics Stack Exchange account](https://math.stackexchange.com/users/531071/matteo-spadetto?tab=profile)
+
+
+### Other stuff
+- [An introduction to doctrines]
 - [An introduction to TQFT](TQFT.pdf)
 - [Master's thesis](Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf)
 - [Some _sciarade_ (charades)](Sciarade.pdf)
+
+
 
 
 
