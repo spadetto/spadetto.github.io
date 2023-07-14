@@ -56,7 +56,7 @@ I am a PhD student working on categorical logic and homotopy type theory at the 
 - Davide Trotta
 
 
-### Some links and other stuff
+### Some links
 - [Leeds SoM account](https://eps.leeds.ac.uk/maths/pgr/8476/matteo-spadetto)
 - [Google Scholar account](https://scholar.google.com/citations?user=gTJ-1CwAAAAJ&hl=en)
 - [ResearchGate account](https://www.researchgate.net/profile/Matteo-Spadetto)
