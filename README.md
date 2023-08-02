@@ -69,6 +69,8 @@ I am a PhD student working on categorical logic and homotopy type theory at the 
 - [An introduction to TQFT](TQFT.pdf)
 - [Master's thesis](Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf)
 - [Some _sciarade_ (charades)](Sciarade.pdf)
+- [Curriculum vitæ](CV.pdf)
+
 
 
 
