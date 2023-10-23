@@ -9,11 +9,6 @@ I am a PhD student working on categorical logic and homotopy type theory at the 
 
 
 
-
-### ![asaf3](asaf3.jpg)
-
-
-
 ### Publications and preprints ([arXiv versions here](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Spadetto%2C+Matteo&terms-0-field=author&classification-mathematics=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first))
 - _A conservativity result for homotopy elementary types in dependent type theory_ [[2303.05623v1]](https://arxiv.org/abs/2303.05623). March 2023.
 - _Dialectica principles via Gödel doctrines_ [[2205.07093v1]](https://arxiv.org/abs/2205.07093). [Theoretical Computer Science](https://www.sciencedirect.com/science/article/pii/S0304397523000051?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=265759211&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM333744&utm_source=AC_). May 2022. Together with [Davide Trotta](https://trottadavide.github.io/) and Valeria de Paiva.
