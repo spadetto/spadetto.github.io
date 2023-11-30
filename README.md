@@ -94,6 +94,7 @@ Click [here](CV.pdf) for a curriculum vitae and [here](researchstatement.pdf) fo
 - [Master's thesis](Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf)
 - [Some _sciarade_ (charades)](Sciarade.pdf)
 - [Curriculum vitæ](CV.pdf)
+- [Research statement](researchstatement.pdf)
 
 
 
