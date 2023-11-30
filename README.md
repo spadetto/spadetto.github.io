@@ -7,6 +7,8 @@ I am a PhD student working on categorical logic and homotopy type theory at the 
 - [_categorical logic_] (hyper)doctrines; quantifier completions of doctrines; Grothendieck fibrations; simple (co)product completions of Grothendieck fibrations; categorical semantics for (fragments of many-sorted) first-order logic; dialectica interpretation; dialectica construction à la de Paiva; disjunction and existence properties;
 - [_homotopy type theory_] dependent type theories; propositional type theories; categories with attributes; comprehension categories; categorical semantics for dependent type theories; conservativity; path categories; coherence.
 
+Click [here](CV.pdf) for a curriculum vitae and
+
 
 
 
