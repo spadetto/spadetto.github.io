@@ -1,5 +1,3 @@
-## Matteo Spadetto
-
 - **m** _dot_ **spadetto** _at_ **leeds** _dot_ **ac** _dot_ **uk**
 - **matteo** _dot_ **spadetto** _dot_ **42** _at_ **gmail** _dot_ **com**
 
