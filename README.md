@@ -1,3 +1,6 @@
+### ![me2](me2.jpg)
+
+
 - **m** _dot_ **spadetto** _at_ **leeds** _dot_ **ac** _dot_ **uk**
 - **matteo** _dot_ **spadetto** _dot_ **42** _at_ **gmail** _dot_ **com**
 
@@ -19,7 +22,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 
 
-### ![me2](me2.jpg)
+
 
 
 
