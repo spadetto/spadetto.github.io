@@ -102,4 +102,4 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 
 
-###### ![cuckoo's](cuckoo's.jpg) _A portrait of me and my collaborator working together._
+##### ![cuckoo's](cuckoo's.jpg) _A portrait of me and my collaborator working together._
