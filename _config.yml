@@ -6,3 +6,6 @@ theme: jekyll-theme-minimal
 logo: me2.jpg
 
 description: Email address. Contact me at m.nomen@leeds.ac.uk or matteo.nomen.42@gmail.com where nomen is spadetto.
+
+
+permalink: /:title/
