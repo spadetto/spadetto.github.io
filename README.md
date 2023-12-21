@@ -69,14 +69,6 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 - **University of Padua**, Italy. _Host_ Maria Emilia Maietti. December 2022.
 
 
-### Collaborators
-- Benno van den Berg
-- Valeria de Paiva
-- Emanuele Frittaion
-- Daniël Otten
-- Davide Trotta
-
-
 ### Some links
 - [Leeds SoM account](https://eps.leeds.ac.uk/maths/pgr/8476/matteo-spadetto)
 - [Google Scholar account](https://scholar.google.com/citations?user=gTJ-1CwAAAAJ&hl=en)
