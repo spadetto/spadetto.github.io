@@ -16,7 +16,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 ### Ongoing research.
 - _Type constructors as algebras_.
 - _Torsion theories and dependent types_. Together with Federico Campanini.
-- _Coherence for path categories_. Together with Daniël Otten and Benno van den Berg. [YouTube presentation here](https://youtu.be/vbEtgFRiJ7U?t=18330).
+- _Coherence for path categories_. Together with Daniël Otten and Benno van den Berg. [YouTube presentation here](https://www.youtube.com/watch?v=a6JNebaYXgU&list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R&index=11&t=1164s&pp=iAQB).
 
 
 
