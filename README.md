@@ -1,10 +1,6 @@
-I am a PhD student working on categorical logic and homotopy type theory at the School of Mathematics of the University of Leeds (UK), supervised by Nicola Gambino, [Federico Olimpieri](https://lipn.univ-paris13.fr/~olimpieri/) and Michael Rathjen.
+I am a PhD student working on categorical logic and homotopy type theory at the School of Mathematics of the University of Leeds (UK), supervised by Nicola Gambino, [Federico Olimpieri](https://lipn.univ-paris13.fr/~olimpieri/), and Michael Rathjen. Prior to that, I studied pure mathematics at the University of Trento (IT) and at Utrecht University (NL), supervised by Stefano Baratella and Jaap van Oosten.
 
-Prior to that, I studied pure mathematics at the University of Trento (IT) and at Utrecht University (NL), supervised by Stefano Baratella and Jaap van Oosten.
-
-My research topics are:
-- [_categorical logic_] (hyper)doctrines; quantifier completions of doctrines; Grothendieck fibrations; simple (co)product completions of Grothendieck fibrations; categorical semantics for (fragments of many-sorted) first-order logic; dialectica interpretation; dialectica construction à la de Paiva; disjunction and existence properties;
-- [_homotopy type theory_] dependent type theories; propositional type theories; categories with attributes; comprehension categories; categorical semantics for dependent type theories; conservativity; path categories; coherence.
+In _categorical logic_ I am interested in the notion(s) of (hyper)doctrines and Grothendieck fibrations to phrase the semantics of (fragments of many-sorted) first-order logic, focusing on quantifier completions, the dialectica construction, and canonicity properties. Regarding _homotopy type theory_, I have been focusing on propositional theories (where computation rules are in propositional form) essentially via categorical semantics methods, in order to study property-like, completeness, coherence, and conservativity properties.
 
 Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) for a _research statement_.
 
