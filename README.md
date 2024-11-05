@@ -52,7 +52,9 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 - **[_Preprint_]** _Quantifier completions, choice principles and applications_ [[2010.09111v3]](https://arxiv.org/abs/2010.09111v3). Submitted. October 2020. Together with Davide Trotta.
 
 
-### Talks in conferences and workshops + some talks in seminars
+### Selected talks in conferences, workshops, seminars
+- _Higher dimensional semantics of propositional theories of dependent types_. XVIII Incontro di Logica AILA. Udine, September 2024.
+- _Towards the coherence of the semantics of propositional identities_. Nottingham Functional Programming Lunch. Nottingham, Februrary 2024.
 - _Coherence in the semantics of dependent types_. Leeds Postgraduate Logic Seminar. Leeds, June 2023.
 - _Coherence for Extensional, Intensional and Propositional Identities_. Category Theory Lunch. Leeds & Manchester, June 2023.
 - _What is a dependent type theory?_ [Leeds Maths PGR Conference 2023](https://leeds-maths-pgr.github.io/conf-2023/). Leeds, June 2023.
