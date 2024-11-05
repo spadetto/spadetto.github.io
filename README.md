@@ -1,6 +1,10 @@
-I am a PhD student working on categorical logic and homotopy type theory at the School of Mathematics of the University of Leeds (UK), supervised by Nicola Gambino, [Federico Olimpieri](https://lipn.univ-paris13.fr/~olimpieri/), and Michael Rathjen. Prior to that, I studied pure mathematics at the University of Trento (IT) and at Utrecht University (NL), supervised by Stefano Baratella and Jaap van Oosten.
+I am a postdoc at the Dipartimento di Scienze Matematiche, Informatiche e Fisiche of the University of Udine, Italy.
 
-In _categorical logic_ I am interested in the notion(s) of (hyper)doctrines and Grothendieck fibrations to phrase the semantics of (fragments of many-sorted) first-order logic, focusing on quantifier completions, the dialectica construction, and canonicity properties. Regarding _homotopy type theory_, I have been focusing on propositional (a.k.a. weak, objective, axiomatic) theories, where computation rules are all explicit, essentially via categorical semantics methods, in order to study property-like, completeness, coherence, and conservativity properties.
+My PhD thesis, completed at the School of Mathematics of the University of Leeds (UK), is in mathematical and categorical logic and dependent type theory. It was supervised by Nicola Gambino, [Federico Olimpieri](https://lipn.univ-paris13.fr/~olimpieri/), and Michael Rathjen.
+
+One of my main research interest lies in the area of _homotopy type theory and semantics of dependent type theory_. I am particularly interested in propositional (also know in the literature as weak, objective, axiomatic) type theory, where computation rules are all explicit. I study such formal systems via categorical semantics methods, in order to study properties like property-likeness, completeness, coherence, relative consistency, and conservativity.
+
+I have also been working on the notions of hyperdoctrines and Grothendieck fibrations to approach (fragments of many-sorted) first-order logic, focusing on quantifier completions, the dialectica construction, and canonicity properties. 
 
 Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) for a _research statement_.
 
