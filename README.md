@@ -4,7 +4,7 @@ My PhD thesis, completed at the School of Mathematics of the University of Leeds
 
 One of my main research interest lies in the area of _homotopy type theory and semantics of dependent type theory_. I am particularly interested in propositional (also know in the literature as weak, objective, axiomatic) type theory, where computation rules are all explicit. I study such formal systems via categorical semantics methods, in order to study properties like property-likeness, completeness, coherence, relative consistency, and conservativity.
 
-I have also been working on the notions of hyperdoctrines and Grothendieck fibrations to approach (fragments of many-sorted) first-order logic, focusing on quantifier completions, the dialectica construction, and canonicity properties. 
+I have also been working on the notions of hyperdoctrines and Grothendieck fibrations to approach the study of fragments of first-order logic, focusing on quantifier completions, the dialectica construction, and canonicity properties. 
 
 Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) for a _research statement_.
 
