@@ -18,11 +18,11 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 
 ### Ongoing research.
-- _Dialectica type theories_. Together with Valerida de Paiva, [Davide Trotta](https://trottadavide.github.io/), and Jonathan Weinberger.
-- _Semantics of Spatio-temporal logic_ Together with Davide Castelnovo and Marino Miculan.
+- _Dialectica type theories_. Together with Valerida de Paiva, [Davide Trotta](https://trottadavide.github.io/), and [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger).
+- _Semantics of Spatio-temporal logic_ Together with [Davide Castelnovo](https://davidecaste.github.io/) and Marino Miculan.
 - _Type constructors as algebras_.
 - _Torsion theories and dependent types_. Together with Federico Campanini.
-- _Coherence for path categories_. Together with Daniël Otten and Benno van den Berg. [YouTube presentation here](https://www.youtube.com/watch?v=a6JNebaYXgU&list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R&index=11&t=1164s&pp=iAQB).
+- _Coherence for path categories_. Together with [Daniël Otten](https://www.otten.co/) and Benno van den Berg. [YouTube presentation here](https://www.youtube.com/watch?v=a6JNebaYXgU&list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R&index=11&t=1164s&pp=iAQB).
 
 
 
