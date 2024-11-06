@@ -13,6 +13,8 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 <details><summary><strong>Ongoing research.</strong></summary>
 
+<div style="margin-top: 10px;"></div>
+
 <ul>
 <li> <em>Dialectica type theories</em>. Together with Valeria de Paiva, <a href='https://trottadavide.github.io/'>Davide Trotta</a>, and <a href='https://sites.google.com/view/jonathanweinberger'>Jonathan Weinberger</a>.</li>
 <li> <em>Semantics of Spatio-temporal logic</em>. Together with <a href='https://davidecaste.github.io/'>Davide Castelnovo</a> and Marino Miculan.</li>
@@ -43,6 +45,8 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 <details><summary><strong>Publications and preprints (<a href='https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Spadetto%2C+Matteo&terms-0-field=author&classification-mathematics=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first'>arXiv versions here</a>)</strong></summary>
 
+<div style="margin-top: 10px;"></div>
+
 <ul>
 <li> <strong>[<em>Preprint</em>]</strong> <em>A biequivalence of path categories and axiomatic Martin Löf type theories</em>. October 2024. Together with Daniël Otten.</li>
 <li> <strong>[<em>Preprint</em>]</strong> <em>Towards propositional dependent sums in intensional and propositional dependent type theory</em>. January 2024.</li>
@@ -69,6 +73,8 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 
 <details><summary><strong>Selected talks in conferences, workshops, seminars</strong></summary>
+
+<div style="margin-top: 10px;"></div>
 
 <ul>
 <li> _Higher dimensional semantics of propositional theories of dependent types_. XVIII Incontro di Logica AILA. Udine, September 2024.</li>
@@ -110,6 +116,8 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 <details><summary><strong>Visiting activities</strong></summary>
 
+<div style="margin-top: 10px;"></div>
+
 <ul>
 <li> **ILLC, Amsterdam**, the Netherlands. _Host_ Benno van den Berg. April-May 2023.</li>
 <li> **University of Padua**, Italy. _Host_ Maria Emilia Maietti. December 2022.</li>
@@ -131,6 +139,8 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 
 <details><summary><strong>Some links</strong></summary>
+
+<div style="margin-top: 10px;"></div>
 
 <ul>
 <li> [Leeds SoM account](https://eps.leeds.ac.uk/maths/pgr/8476/matteo-spadetto)</li>
@@ -157,6 +167,8 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 <details><summary><strong>Other stuff</strong></summary>
 
+<div style="margin-top: 10px;"></div>
+
 <ul>
 <li> [An introduction to doctrines](A_gentle_introduction_to_the_study_of_mathematical_logic_via_doctrines.pdf)</li>
 <li> [An introduction to TQFT](TQFT.pdf)</li>
@@ -170,7 +182,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 <div style="margin-top: 20px;"></div>
 
-
+<div style="margin-top: 10px;"></div>
 
 
 
