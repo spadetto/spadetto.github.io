@@ -8,7 +8,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 
 
-
+<br>
 
 
 <details><summary><strong>Ongoing research.</strong></summary>
@@ -180,9 +180,6 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 </details>
 
-<div style="margin-top: 20px;"></div>
-
-<div style="margin-top: 10px;"></div>
 
 
 
@@ -192,5 +189,6 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 
 
+<br>
 
 ##### ![cuckoo's](cuckoo's.jpg) _A portrait of me and my collaborator working together._
