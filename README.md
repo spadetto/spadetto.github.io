@@ -41,7 +41,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 
 
-<details><summary>Publications and preprints (<a href='[https://lipn.univ-paris13.fr/~olimpieri/](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Spadetto%2C+Matteo&terms-0-field=author&classification-mathematics=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)'>arXiv versions here</a>)</summary>
+<details><summary>Publications and preprints (<a href='https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Spadetto%2C+Matteo&terms-0-field=author&classification-mathematics=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first'>arXiv versions here</a>)</summary>
 
 <ul>
 <li> <strong>[<em>Preprint</em>]</strong> <em>A biequivalence of path categories and axiomatic Martin Löf type theories</em>. October 2024. Together with Daniël Otten.</li>
