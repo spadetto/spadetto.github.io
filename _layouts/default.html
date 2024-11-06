@@ -3,10 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
+    <title>{{ page.title | escape }}</title>
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
     {{ content }}
 </head>
 <body>
+    <header>
+        <h1>{{ site.title | escape }}</h1>
+        <p>{{ site.description | escape }}</p>
+    </header>
     <main>
         {{ content }}
     </main>
