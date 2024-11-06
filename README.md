@@ -20,12 +20,12 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 </summary>
 
 <ul>
-<li> _Dialectica type theories_. Together with Valeria de Paiva, [Davide Trotta](https://trottadavide.github.io/), and [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger).
-<li> _Semantics of Spatio-temporal logic_. Together with [Davide Castelnovo](https://davidecaste.github.io/) and Marino Miculan.
-<li> _Constructive set theories within dependent type theory_. Together with [Emanuele Frittaion](https://sites.google.com/view/emanuelefrittaion/home).
-<li> _Type constructors as algebras_.
-<li> _Torsion theories and dependent types_. Together with Federico Campanini.
-<li> _Coherence for path categories_. Together with [Daniël Otten](https://www.otten.co/) and Benno van den Berg. [YouTube presentation here](https://www.youtube.com/watch?v=a6JNebaYXgU&list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R&index=11&t=1164s&pp=iAQB).
+<li> <em>Dialectica type theories</em>. Together with Valeria de Paiva, [Davide Trotta](https://trottadavide.github.io/), and [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger).</li>
+<li> <em>Semantics of Spatio-temporal logic</em>. Together with [Davide Castelnovo](https://davidecaste.github.io/) and Marino Miculan.</li>
+<li> <em>Constructive set theories within dependent type theory</em>. Together with [Emanuele Frittaion](https://sites.google.com/view/emanuelefrittaion/home).</li>
+<li> <em>Type constructors as algebras</em>.</li>
+<li> <em>Torsion theories and dependent types</em>. Together with Federico Campanini.</li>
+<li> <em>Coherence for path categories</em>. Together with [Daniël Otten](https://www.otten.co/) and Benno van den Berg. [YouTube presentation here](https://www.youtube.com/watch?v=a6JNebaYXgU&list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R&index=11&t=1164s&pp=iAQB).</li>
 </ul>
 
 </details>
