@@ -1,7 +1,3 @@
-I am a postdoc at the Dipartimento di Scienze Matematiche, Informatiche e Fisiche of the University of Udine, Italy.
-
-My PhD thesis, completed at the School of Mathematics of the University of Leeds (UK), is in mathematical and categorical logic and dependent type theory. It was supervised by Nicola Gambino, [Federico Olimpieri](https://lipn.univ-paris13.fr/~olimpieri/), and Michael Rathjen.
-
 One of my main research interests lies in the area of _homotopy type theory and semantics of dependent type theory_. I am particularly interested in propositional (also know in the literature as weak, objective, axiomatic) type theory, where computation rules are all explicit. I study such formal systems via categorical semantics methods, in order to deduce properties like property-likeness, completeness, coherence, relative consistency, and conservativity.
 
 I have also been working on the notions of _hyperdoctrines_ and Grothendieck fibrations to approach the study of fragments of first-order logic, focusing on quantifier completions, the _dialectica construction_, and canonicity properties. 
