@@ -15,7 +15,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 <summary>
 
-### Ongoing research.
+<h3> Ongoing research.
 
 </summary>
 
