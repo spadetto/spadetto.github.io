@@ -11,8 +11,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 
 
-<details>
-<summary><h3>Ongoing research.</h3></summary>
+<details><summary>Ongoing research.</summary>
 
 <ul>
 <li> <em>Dialectica type theories</em>. Together with Valeria de Paiva, [Davide Trotta](https://trottadavide.github.io/), and [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger).</li>
