@@ -2,9 +2,6 @@ title: Matteo Spadetto
 
 
 theme: jekyll-theme-minimal
-markdown: kramdown
-include:
-  - assets/css/style.css
 
 description: "Email address. Contact me at <em>matteo.nomen.42@gmail.com</em> where nomen is spadetto.<br><br>I am a postdoc at the Dipartimento di Scienze Matematiche, Informatiche e Fisiche of the University of Udine, Italy.<br><br>My PhD thesis, completed at the School of Mathematics of the University of Leeds (UK), is in mathematical and categorical logic and dependent type theory. It was supervised by Nicola Gambino, <a href='https://lipn.univ-paris13.fr/~olimpieri/'>Federico Olimpieri</a>, and Michael Rathjen."
 
