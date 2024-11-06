@@ -1,9 +1,0 @@
-/* Adjust the sidebar width */
-.sidebar {
-    width: 25%; /* Set your desired width */
-}
-
-/* Adjust main content area width to align properly */
-.main-content {
-    width: 75%; /* Adjust based on sidebar width */
-}
