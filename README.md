@@ -51,7 +51,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 <li> <strong>[<em>Refereed conference paper</em>]</strong> <em>Dialectica logical principles</em> [[2109.08064v1]](https://arxiv.org/abs/2109.08064). [Proceedings of Logical Foundations of Computer Science 2022](https://link.springer.com/chapter/10.1007/978-3-030-93100-1_22). September 2021. <strong><em>Extended version</em></strong> → <strong>[<em>Journal paper</em>]</strong> <em>Dialectica logical principles: not only rules</em>. [Journal of Logic and Computation (LFCS 2022 post-conference volume)](https://academic.oup.com/logcom/advance-article/doi/10.1093/logcom/exac079/6795172?searchresult=1). March 2022. Together with Davide Trotta and Valeria de Paiva.</li>
 <li> <strong>[<em>Refereed conference paper</em>]</strong> <em>The Gödel fibration</em>. [Proceedings of Mathematical Foundations of Computer Science 2021](https://drops.dagstuhl.de/opus/volltexte/2021/14527/). August 2021. <strong><em>Extended version</em></strong> → <strong>[<em>Preprint</em>]</strong> <em>The Gödel fibration</em> [[2104.14021v1]](https://arxiv.org/abs/2104.14021). April 2021. Together with Davide Trotta and Valeria de Paiva.</li>
 <li> <strong>[<em>Preprint</em>]</strong> <em>Quantifier completions, choice principles and applications</em> [[2010.09111v3]](https://arxiv.org/abs/2010.09111v3). Submitted. October 2020. Together with Davide Trotta.</li>
-</ul>
+</em></li></ul>
 
 </details>
 
