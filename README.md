@@ -138,7 +138,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 
 
-<details><summary><strong>Some links</strong></summary>
+<details><summary><strong>Some links and stuff</strong></summary>
 
 <div style="margin-top: 10px;"></div>
 
@@ -148,6 +148,12 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 <li> [ResearchGate account](https://www.researchgate.net/profile/Matteo-Spadetto)</li>
 <li> [ORCID](https://orcid.org/0000-0002-6495-7405)</li>
 <li> [Mathematics Stack Exchange account](https://math.stackexchange.com/users/531071/matteo-spadetto?tab=profile)</li>
+<li> [An introduction to doctrines](A_gentle_introduction_to_the_study_of_mathematical_logic_via_doctrines.pdf)</li>
+<li> [An introduction to TQFT](TQFT.pdf)</li>
+<li> [Master's thesis](Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf)</li>
+<li> [Some _sciarade_ (charades)](Sciarade.pdf)</li>
+<li> [Curriculum vitæ](CV.pdf)</li>
+<li> [Research statement](researchstatement.pdf)</li>
 </ul>
 
 </details>
@@ -162,23 +168,6 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 
 
-
-
-
-<details><summary><strong>Other stuff</strong></summary>
-
-<div style="margin-top: 10px;"></div>
-
-<ul>
-<li> [An introduction to doctrines](A_gentle_introduction_to_the_study_of_mathematical_logic_via_doctrines.pdf)</li>
-<li> [An introduction to TQFT](TQFT.pdf)</li>
-<li> [Master's thesis](Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf)</li>
-<li> [Some _sciarade_ (charades)](Sciarade.pdf)</li>
-<li> [Curriculum vitæ](CV.pdf)</li>
-<li> [Research statement](researchstatement.pdf)</li>
-</ul>
-
-</details>
 
 
 
