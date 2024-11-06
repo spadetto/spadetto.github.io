@@ -149,11 +149,11 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 <li> <a href='https://orcid.org/0000-0002-6495-7405'>ORCID</a></li>
 <li> <a href='https://math.stackexchange.com/users/531071/matteo-spadetto?tab=profile'>Mathematics Stack Exchange account</a></li>
 <li> <a href='https://github.com/spadetto/spadetto.github.io/blob/main/A_gentle_introduction_to_the_study_of_mathematical_logic_via_doctrines.pdf'>An introduction to doctrines</a></li>
-<li> <a href=''>An introduction to TQFT](TQFT.pdf)</li>
-<li> <a href=''>Master's thesis](Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf)</li>
-<li> <a href=''>Some _sciarade_ (charades)](Sciarade.pdf)</li>
-<li> <a href=''>Curriculum vitæ](CV.pdf)</li>
-<li> <a href=''>Research statement](researchstatement.pdf)</li>
+<li> <a href='https://github.com/spadetto/spadetto.github.io/blob/main/TQFT.pdf'>An introduction to TQFT</a></li>
+<li> <a href='https://github.com/spadetto/spadetto.github.io/blob/main/Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf'>Master's thesis</a></li>
+<li> <a href='https://github.com/spadetto/spadetto.github.io/blob/main/Sciarade.pdf'>Some _sciarade_ (charades)</a></li>
+<li> <a href='https://github.com/spadetto/spadetto.github.io/blob/main/CV.pdf'>Curriculum vitæ</a></li>
+<li> <a href='https://github.com/spadetto/spadetto.github.io/blob/main/researchstatement.pdf'>Research statement</a></li>
 </ul>
 
 </details>
