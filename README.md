@@ -18,7 +18,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 
 ### Ongoing research.
-- _Dialectica type theories_. Together with Valerida de Paiva, [Davide Trotta](https://trottadavide.github.io/), and [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger).
+- _Dialectica type theories_. Together with Valeria de Paiva, [Davide Trotta](https://trottadavide.github.io/), and [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger).
 - _Semantics of Spatio-temporal logic_. Together with [Davide Castelnovo](https://davidecaste.github.io/) and Marino Miculan.
 - _Constructive set theories within dependent type theory_. Together with [Emanuele Frittaion](https://sites.google.com/view/emanuelefrittaion/home).
 - _Type constructors as algebras_.
