@@ -81,22 +81,22 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 <li> _Towards the coherence of the semantics of propositional identities_. Nottingham Functional Programming Lunch. Nottingham, Februrary 2024.</li>
 <li> _Coherence in the semantics of dependent types_. Leeds Postgraduate Logic Seminar. Leeds, June 2023.</li>
 <li> _Coherence for Extensional, Intensional and Propositional Identities_. Category Theory Lunch. Leeds & Manchester, June 2023.</li>
-<li> _What is a dependent type theory?_ [Leeds Maths PGR Conference 2023](https://leeds-maths-pgr.github.io/conf-2023/). Leeds, June 2023.</li>
-<li> _Strictifying Path Categories_. [Workshop on Doctrines & Fibrations](https://events.math.unipd.it/WDF2023/). [YouTube Recording](https://www.youtube.com/watch?v=a6JNebaYXgU&list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R&index=13). [Slides](https://events.math.unipd.it/WDF2023/slides/SPADETTO.pdf). Padua, June 2023.</li>
-<li> _Propositional dependent type theories: a conservativity result for homotopy elementary types_. [Homotopy Type Theory 2023](https://hott.github.io/HoTT-2023//). [Slides](https://hott.github.io/HoTT-2023/slides/spadetto.pdf). Pittsburgh, May 2023.</li>
-<li> _Weak type theories: a conservativity result for homotopy elementary types_. [DutchCATS](https://dutchcats.github.io/). Amsterdam, May 2023.</li>
-<li> _A conservativity-like result for a propositional type theory_. [3rd ItaCa Workshop](https://progetto-itaca.github.io/ItaCa-22/). [YouTube Recording](https://www.youtube.com/watch?v=y03fvYo_GRQ). Pisa, December 2022.</li>
-<li> _Dialectica: fibrations and logical principles_. [Applied Category Theory 2022](https://msp.cis.strath.ac.uk/act2022/). [YouTube Recording](https://youtu.be/vbEtgFRiJ7U?t=18330). [Slides](https://msp.cis.strath.ac.uk/act2022/slides/ACT2022_slides_8242.pdf). Glasgow, July 2022.</li>
-<li> _Propositional in Dependent Type Theory_. [Leeds Maths PGR Conference 2022]([https://leeds-maths-pgr.github.io/conf-2023/](https://sites.google.com/view/som-pgr-conference22/home?authuser=0)). Leeds, June 2022.</li>
+<li> _What is a dependent type theory?_ <a href='https://leeds-maths-pgr.github.io/conf-2023/'>Leeds Maths PGR Conference 2023</a>. Leeds, June 2023.</li>
+<li> _Strictifying Path Categories_. <a href='https://events.math.unipd.it/WDF2023/'>[Workshop on Doctrines & Fibrations]</a>. <a href='https://www.youtube.com/watch?v=a6JNebaYXgU&list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R&index=13'>YouTube Recording</a>. <a href='https://events.math.unipd.it/WDF2023/slides/SPADETTO.pdf'>[Slides]</a>. Padua, June 2023.</li>
+<li> _Propositional dependent type theories: a conservativity result for homotopy elementary types_. <a href='https://hott.github.io/HoTT-2023//'>Homotopy Type Theory 2023</a>. <a href='https://hott.github.io/HoTT-2023/slides/spadetto.pdf'>Slides</a>. Pittsburgh, May 2023.</li>
+<li> _Weak type theories: a conservativity result for homotopy elementary types_. <a href='https://dutchcats.github.io/'>DutchCATS</a>. Amsterdam, May 2023.</li>
+<li> _A conservativity-like result for a propositional type theory_. <a href='https://progetto-itaca.github.io/ItaCa-22/'>3rd ItaCa Workshop</a>. <a href='https://www.youtube.com/watch?v=y03fvYo_GRQ'>YouTube Recording</a>. Pisa, December 2022.</li>
+<li> _Dialectica: fibrations and logical principles_. <a href='https://msp.cis.strath.ac.uk/act2022/'>Applied Category Theory 2022</a>. <a href='https://youtu.be/vbEtgFRiJ7U?t=18330'>YouTube Recording</a>. <a href='https://msp.cis.strath.ac.uk/act2022/slides/ACT2022_slides_8242.pdf'>Slides</a>. Glasgow, July 2022.</li>
+<li> _Propositional in Dependent Type Theory_. <a href='https://sites.google.com/view/som-pgr-conference22/home?authuser=0'>Leeds Maths PGR Conference 2022</a>. Leeds, June 2022.</li>
 <li> _Towards the notion of Propositional Dependent Sum Types_. Proofs, Constructions, Computations and Categories. Leeds, February 2022.</li>
-<li> _Dialectica completion & dialectica logical principles_. [26th Yorkshire and Midlands Category Theory Seminar](https://conferences.leeds.ac.uk/yamcats/meeting-26/). [Slides](http://conferences.leeds.ac.uk/yamcats/wp-content/uploads/sites/84/2022/04/yamcats-26-spadetto.pdf). Birmingham, January 2022.</li>
-<li> _Dialectica completion & Gödel fibrations_. [2nd ItaCa Workshop](https://genoa-logic-group.github.io/itaca-workshop-2021/). Genoa, December 2021.</li>
-<li> _Dialectica logical principles_. [Eighth Symposium on Compositional Structures](https://www.cl.cam.ac.uk/events/syco/8/). Tallinn, December 2021.</li>
+<li> _Dialectica completion & dialectica logical principles_. <a href='https://conferences.leeds.ac.uk/yamcats/meeting-26/'>26th Yorkshire and Midlands Category Theory Seminar</a>. <a href='http://conferences.leeds.ac.uk/yamcats/wp-content/uploads/sites/84/2022/04/yamcats-26-spadetto.pdf'>Slides</a>. Birmingham, January 2022.</li>
+<li> _Dialectica completion & Gödel fibrations_. <a href='https://genoa-logic-group.github.io/itaca-workshop-2021/'>2nd ItaCa Workshop</a>. Genoa, December 2021.</li>
+<li> _Dialectica logical principles_. <a href='https://www.cl.cam.ac.uk/events/syco/8/'>Eighth Symposium on Compositional Structures</a>. Tallinn, December 2021.</li>
 <li> _On the notions of exact completion_. Leeds Postgraduate Logic Seminar. Leeds, November 2021.</li>
 <li> _Existential, universal and dialectica completion_. Proofs, Constructions, Computations and Categories. Leeds, November 2021.</li>
 <li> _Regular (first-order) logic symbols & doctrines_. Groningen Mathematics PhD Seminar. Groningen, October 2021.</li>
-<li> _The Gödel Fibration_. [Applied Category Theory 2021](https://www.cl.cam.ac.uk/events/act2021/). [Poster](https://www.cl.cam.ac.uk/events/act2021/slides/ACT_2021_slides_21.pdf). Cambridge, July 2021.</li>
-<li> _Quantifier completions of doctrines_. [Categories and Companions Symposium 2021](http://web.science.mq.edu.au/groups/coact/seminar/CaCS2021/). [YouTube Recording](https://www.youtube.com/watch?v=1RajMGazetE&t=953s). Sydney, June 2021.</li>
+<li> _The Gödel Fibration_. <a href='https://www.cl.cam.ac.uk/events/act2021/'>Applied Category Theory 2021</a>. <a href='https://www.cl.cam.ac.uk/events/act2021/slides/ACT_2021_slides_21.pdf'>Poster</a>. Cambridge, July 2021.</li>
+<li> _Quantifier completions of doctrines_. <a href='http://web.science.mq.edu.au/groups/coact/seminar/CaCS2021/'>Categories and Companions Symposium 2021</a>. <a href='https://www.youtube.com/watch?v=1RajMGazetE&t=953s'>YouTube Recording</a>. Sydney, June 2021.</li>
 </ul>
 
 </details>
