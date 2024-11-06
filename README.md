@@ -119,8 +119,8 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 <div style="margin-top: 10px;"></div>
 
 <ul>
-<li> **ILLC, Amsterdam**, the Netherlands. _Host_ Benno van den Berg. April-May 2023.</li>
-<li> **University of Padua**, Italy. _Host_ Maria Emilia Maietti. December 2022.</li>
+<li> <strong>ILLC, Amsterdam</strong>, the Netherlands. <em>Host</em> Benno van den Berg. April-May 2023.</li>
+<li> <strong>University of Padua</strong>, Italy. <em>Host</em> Maria Emilia Maietti. December 2022.</li>
 </ul>
 
 </details>
@@ -143,17 +143,17 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 <div style="margin-top: 10px;"></div>
 
 <ul>
-<li> [Leeds SoM account](https://eps.leeds.ac.uk/maths/pgr/8476/matteo-spadetto)</li>
-<li> [Google Scholar account](https://scholar.google.com/citations?user=gTJ-1CwAAAAJ&hl=en)</li>
-<li> [ResearchGate account](https://www.researchgate.net/profile/Matteo-Spadetto)</li>
-<li> [ORCID](https://orcid.org/0000-0002-6495-7405)</li>
-<li> [Mathematics Stack Exchange account](https://math.stackexchange.com/users/531071/matteo-spadetto?tab=profile)</li>
-<li> [An introduction to doctrines](A_gentle_introduction_to_the_study_of_mathematical_logic_via_doctrines.pdf)</li>
-<li> [An introduction to TQFT](TQFT.pdf)</li>
-<li> [Master's thesis](Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf)</li>
-<li> [Some _sciarade_ (charades)](Sciarade.pdf)</li>
-<li> [Curriculum vitæ](CV.pdf)</li>
-<li> [Research statement](researchstatement.pdf)</li>
+<li> <a href='https://eps.leeds.ac.uk/maths/pgr/8476/matteo-spadetto'>Leeds SoM account</a></li>
+<li> <a href='https://scholar.google.com/citations?user=gTJ-1CwAAAAJ&hl=en'>Google Scholar account</a></li>
+<li> <a href='https://www.researchgate.net/profile/Matteo-Spadetto'>ResearchGate account</a></li>
+<li> <a href='https://orcid.org/0000-0002-6495-7405'>ORCID</a></li>
+<li> <a href='https://math.stackexchange.com/users/531071/matteo-spadetto?tab=profile'>Mathematics Stack Exchange account</a></li>
+<li> <a href='https://github.com/spadetto/spadetto.github.io/blob/main/A_gentle_introduction_to_the_study_of_mathematical_logic_via_doctrines.pdf'>An introduction to doctrines</a></li>
+<li> <a href=''>An introduction to TQFT](TQFT.pdf)</li>
+<li> <a href=''>Master's thesis](Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf)</li>
+<li> <a href=''>Some _sciarade_ (charades)](Sciarade.pdf)</li>
+<li> <a href=''>Curriculum vitæ](CV.pdf)</li>
+<li> <a href=''>Research statement](researchstatement.pdf)</li>
 </ul>
 
 </details>
