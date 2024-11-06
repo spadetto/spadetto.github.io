@@ -13,6 +13,8 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 <details><summary><strong>Ongoing research.</strong></summary>
 
+<br>
+
 <ul>
 <li> <em>Dialectica type theories</em>. Together with Valeria de Paiva, [Davide Trotta](https://trottadavide.github.io/), and [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger).</li>
 <li> <em>Semantics of Spatio-temporal logic</em>. Together with [Davide Castelnovo](https://davidecaste.github.io/) and Marino Miculan.</li>
@@ -41,14 +43,21 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 
 
-### Publications and preprints ([arXiv versions here](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Spadetto%2C+Matteo&terms-0-field=author&classification-mathematics=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first))
-- **[_Preprint_]** _A biequivalence of path categories and axiomatic Martin Löf type theories_. October 2024. Together with Daniël Otten.
-- **[_Preprint_]** _Towards propositional dependent sums in intensional and propositional dependent type theory_. January 2024.
-- **[_Preprint_]** _Relating homotopy equivalences to conservativity in dependendent type theories with propositional computation_ [[2303.05623v2]](https://arxiv.org/abs/2303.05623v2). March 2023.
-- **[_Journal paper_]** _Dialectica principles via Gödel doctrines_ [[2205.07093v1]](https://arxiv.org/abs/2205.07093). [Theoretical Computer Science](https://www.sciencedirect.com/science/article/pii/S0304397523000051?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=265759211&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM333744&utm_source=AC_). May 2022. Together with Davide Trotta and Valeria de Paiva.
-- **[_Refereed conference paper_]** _Dialectica logical principles_ [[2109.08064v1]](https://arxiv.org/abs/2109.08064). [Proceedings of Logical Foundations of Computer Science 2022](https://link.springer.com/chapter/10.1007/978-3-030-93100-1_22). September 2021. **_Extended version_** → **[_Journal paper_]** _Dialectica logical principles: not only rules_. [Journal of Logic and Computation (LFCS 2022 post-conference volume)](https://academic.oup.com/logcom/advance-article/doi/10.1093/logcom/exac079/6795172?searchresult=1). March 2022. Together with Davide Trotta and Valeria de Paiva.
-- **[_Refereed conference paper_]** _The Gödel fibration_. [Proceedings of Mathematical Foundations of Computer Science 2021](https://drops.dagstuhl.de/opus/volltexte/2021/14527/). August 2021. **_Extended version_** → **[_Preprint_]** _The Gödel fibration_ [[2104.14021v1]](https://arxiv.org/abs/2104.14021). April 2021. Together with Davide Trotta and Valeria de Paiva.
-- **[_Preprint_]** _Quantifier completions, choice principles and applications_ [[2010.09111v3]](https://arxiv.org/abs/2010.09111v3). Submitted. October 2020. Together with Davide Trotta.
+<details><summary>Publications and preprints ([arXiv versions here](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Spadetto%2C+Matteo&terms-0-field=author&classification-mathematics=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first))</summary>
+
+<br>
+
+<ul>
+<li> **[_Preprint_]** _A biequivalence of path categories and axiomatic Martin Löf type theories_. October 2024. Together with Daniël Otten.</li>
+<li> **[_Preprint_]** _Towards propositional dependent sums in intensional and propositional dependent type theory_. January 2024.</li>
+<li> **[_Preprint_]** _Relating homotopy equivalences to conservativity in dependendent type theories with propositional computation_ [[2303.05623v2]](https://arxiv.org/abs/2303.05623v2). March 2023.</li>
+<li> **[_Journal paper_]** _Dialectica principles via Gödel doctrines_ [[2205.07093v1]](https://arxiv.org/abs/2205.07093). [Theoretical Computer Science](https://www.sciencedirect.com/science/article/pii/S0304397523000051?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=265759211&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM333744&utm_source=AC_). May 2022. Together with Davide Trotta and Valeria de Paiva.</li>
+<li> **[_Refereed conference paper_]** _Dialectica logical principles_ [[2109.08064v1]](https://arxiv.org/abs/2109.08064). [Proceedings of Logical Foundations of Computer Science 2022](https://link.springer.com/chapter/10.1007/978-3-030-93100-1_22). September 2021. **_Extended version_** → **[_Journal paper_]** _Dialectica logical principles: not only rules_. [Journal of Logic and Computation (LFCS 2022 post-conference volume)](https://academic.oup.com/logcom/advance-article/doi/10.1093/logcom/exac079/6795172?searchresult=1). March 2022. Together with Davide Trotta and Valeria de Paiva.</li>
+<li> **[_Refereed conference paper_]** _The Gödel fibration_. [Proceedings of Mathematical Foundations of Computer Science 2021](https://drops.dagstuhl.de/opus/volltexte/2021/14527/). August 2021. **_Extended version_** → **[_Preprint_]** _The Gödel fibration_ [[2104.14021v1]](https://arxiv.org/abs/2104.14021). April 2021. Together with Davide Trotta and Valeria de Paiva.</li>
+<li> **[_Preprint_]** _Quantifier completions, choice principles and applications_ [[2010.09111v3]](https://arxiv.org/abs/2010.09111v3). Submitted. October 2020. Together with Davide Trotta.</li>
+</ul>
+
+</details>
 
 
 ### Selected talks in conferences, workshops, seminars
