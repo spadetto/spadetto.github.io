@@ -14,8 +14,8 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 <details><summary><strong>Ongoing research.</strong></summary>
 
 <ul>
-<li> <em>Dialectica type theories</em>. Together with Valeria de Paiva, <a href='https://trottadavide.github.io/'>Davide Trotta</a>, and [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger).</li>
-<li> <em>Semantics of Spatio-temporal logic</em>. Together with [Davide Castelnovo](https://davidecaste.github.io/) and Marino Miculan.</li>
+<li> <em>Dialectica type theories</em>. Together with Valeria de Paiva, <a href='https://trottadavide.github.io/'>Davide Trotta</a>, and <a href='https://sites.google.com/view/jonathanweinberger'>Jonathan Weinberger</a>.</li>
+<li> <em>Semantics of Spatio-temporal logic</em>. Together with <a href='https://davidecaste.github.io/'>Davide Castelnovo</a> and Marino Miculan.</li>
 <li> <em>Constructive set theories within dependent type theory</em>. Together with [Emanuele Frittaion](https://sites.google.com/view/emanuelefrittaion/home).</li>
 <li> <em>Type constructors as algebras</em>.</li>
 <li> <em>Torsion theories and dependent types</em>. Together with Federico Campanini.</li>
@@ -41,7 +41,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 
 
-<details><summary>Publications and preprints (<a href='https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Spadetto%2C+Matteo&terms-0-field=author&classification-mathematics=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first'>arXiv versions here</a>)</summary>
+<details><summary><strong>Publications and preprints (<a href='https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Spadetto%2C+Matteo&terms-0-field=author&classification-mathematics=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first'>arXiv versions here</a>)</strong></summary>
 
 <ul>
 <li> <strong>[<em>Preprint</em>]</strong> <em>A biequivalence of path categories and axiomatic Martin Löf type theories</em>. October 2024. Together with Daniël Otten.</li>
