@@ -24,7 +24,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 </details>
 
-
+<br>
 
 
 
@@ -55,7 +55,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 </details>
 
-
+<br>
 
 
 
@@ -90,7 +90,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 </details>
 
-
+<br>
 
 
 
@@ -107,7 +107,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 </details>
 
-
+<br>
 
 
 
@@ -126,7 +126,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 </details>
 
-
+<br>
 
 
 
@@ -148,7 +148,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 </details>
 
-
+<br>
 
 
 
