@@ -94,26 +94,59 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 
 
 
-### Visiting activities
-- **ILLC, Amsterdam**, the Netherlands. _Host_ Benno van den Berg. April-May 2023.
-- **University of Padua**, Italy. _Host_ Maria Emilia Maietti. December 2022.
 
 
-### Some links
-- [Leeds SoM account](https://eps.leeds.ac.uk/maths/pgr/8476/matteo-spadetto)
-- [Google Scholar account](https://scholar.google.com/citations?user=gTJ-1CwAAAAJ&hl=en)
-- [ResearchGate account](https://www.researchgate.net/profile/Matteo-Spadetto)
-- [ORCID](https://orcid.org/0000-0002-6495-7405)
-- [Mathematics Stack Exchange account](https://math.stackexchange.com/users/531071/matteo-spadetto?tab=profile)
 
 
-### Other stuff
-- [An introduction to doctrines](A_gentle_introduction_to_the_study_of_mathematical_logic_via_doctrines.pdf)
-- [An introduction to TQFT](TQFT.pdf)
-- [Master's thesis](Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf)
-- [Some _sciarade_ (charades)](Sciarade.pdf)
-- [Curriculum vitæ](CV.pdf)
-- [Research statement](researchstatement.pdf)
+<details><summary><strong>Visiting activities</strong></summary>
+
+<ul>
+<li> **ILLC, Amsterdam**, the Netherlands. _Host_ Benno van den Berg. April-May 2023.</li>
+<li> **University of Padua**, Italy. _Host_ Maria Emilia Maietti. December 2022.</li>
+</ul>
+
+</details>
+
+
+
+
+
+
+
+
+<details><summary><strong>Some links</strong></summary>
+
+<ul>
+<li> [Leeds SoM account](https://eps.leeds.ac.uk/maths/pgr/8476/matteo-spadetto)</li>
+<li> [Google Scholar account](https://scholar.google.com/citations?user=gTJ-1CwAAAAJ&hl=en)</li>
+<li> [ResearchGate account](https://www.researchgate.net/profile/Matteo-Spadetto)</li>
+<li> [ORCID](https://orcid.org/0000-0002-6495-7405)</li>
+<li> [Mathematics Stack Exchange account](https://math.stackexchange.com/users/531071/matteo-spadetto?tab=profile)</li>
+</ul>
+
+</details>
+
+
+
+
+
+
+
+
+
+
+<details><summary><strong>Other stuff</strong></summary>
+
+<ul>
+<li> [An introduction to doctrines](A_gentle_introduction_to_the_study_of_mathematical_logic_via_doctrines.pdf)</li>
+<li> [An introduction to TQFT](TQFT.pdf)</li>
+<li> [Master's thesis](Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf)</li>
+<li> [Some _sciarade_ (charades)](Sciarade.pdf)</li>
+<li> [Curriculum vitæ](CV.pdf)</li>
+<li> [Research statement](researchstatement.pdf)</li>
+</ul>
+
+</details>
 
 
 
