@@ -152,7 +152,6 @@ Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statemen
 <li> <a href='https://github.com/spadetto/spadetto.github.io/raw/main/TQFT.pdf'>An introduction to TQFT</a></li>
 <li> <a href='https://github.com/spadetto/spadetto.github.io/raw/main/Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf'>Master's thesis</a></li>
 <li> <a href='https://github.com/spadetto/spadetto.github.io/raw/main/Sciarade.pdf'>Some <em>sciarade</em> (charades)</a></li>
-<!-- <li> <a href="https://github.com/spadetto/spadetto.github.io/raw/main/Sciarade.pdf" target="_blank">Some <em>sciarade</em> (charades)</a></li> -->
 </ul>
 
 </details>
@@ -165,6 +164,7 @@ Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statemen
 
 
 
+<!-- <li> <a href="https://github.com/spadetto/spadetto.github.io/raw/main/Sciarade.pdf" target="_blank">Some <em>sciarade</em> (charades)</a></li> -->
 
 
 
