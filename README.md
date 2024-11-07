@@ -2,7 +2,7 @@ One of my main research interests lies in the area of _homotopy type theory and 
 
 I have also been working on the notions of _hyperdoctrines_ and Grothendieck fibrations to approach the study of fragments of first-order logic, focusing on quantifier completions, the _dialectica construction_, and canonicity properties. 
 
-Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) for a _research statement_.
+Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statement_](researchstatement.pdf).
 
 
 
@@ -82,7 +82,7 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 <li> <em>Coherence in the semantics of dependent types</em>. Leeds Postgraduate Logic Seminar. Leeds, June 2023.</li>
 <li> <em>Coherence for Extensional, Intensional and Propositional Identities</em>. Category Theory Lunch. Leeds & Manchester, June 2023.</li>
 <li> <em>What is a dependent type theory?</em> <a href='https://leeds-maths-pgr.github.io/conf-2023/'>Leeds Maths PGR Conference 2023</a>. Leeds, June 2023.</li>
-<li> <em>Strictifying Path Categories</em>. <a href='https://events.math.unipd.it/WDF2023/'>[Workshop on Doctrines & Fibrations]</a>. <a href='https://www.youtube.com/watch?v=a6JNebaYXgU&list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R&index=13'>YouTube Recording</a>. <a href='https://events.math.unipd.it/WDF2023/slides/SPADETTO.pdf'>[Slides]</a>. Padua, June 2023.</li>
+<li> <em>Strictifying Path Categories</em>. <a href='https://events.math.unipd.it/WDF2023/'>Workshop on Doctrines & Fibrations</a>. <a href='https://www.youtube.com/watch?v=a6JNebaYXgU&list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R&index=13'>YouTube Recording</a>. <a href='https://events.math.unipd.it/WDF2023/slides/SPADETTO.pdf'>Slides</a>. Padua, June 2023.</li>
 <li> <em>Propositional dependent type theories: a conservativity result for homotopy elementary types</em>. <a href='https://hott.github.io/HoTT-2023//'>Homotopy Type Theory 2023</a>. <a href='https://hott.github.io/HoTT-2023/slides/spadetto.pdf'>Slides</a>. Pittsburgh, May 2023.</li>
 <li> <em>Weak type theories: a conservativity result for homotopy elementary types</em>. <a href='https://dutchcats.github.io/'>DutchCATS</a>. Amsterdam, May 2023.</li>
 <li> <em>A conservativity-like result for a propositional type theory</em>. <a href='https://progetto-itaca.github.io/ItaCa-22/'>3rd ItaCa Workshop</a>. <a href='https://www.youtube.com/watch?v=y03fvYo_GRQ'>YouTube Recording</a>. Pisa, December 2022.</li>
