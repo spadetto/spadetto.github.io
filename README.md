@@ -148,10 +148,10 @@ Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statemen
 <li> <a href='https://www.researchgate.net/profile/Matteo-Spadetto'>ResearchGate account</a></li>
 <li> <a href='https://orcid.org/0000-0002-6495-7405'>ORCID</a></li>
 <li> <a href='https://math.stackexchange.com/users/531071/matteo-spadetto?tab=profile'>Mathematics Stack Exchange account</a></li>
-<li> <a href='https://github.com/spadetto/spadetto.github.io/blob/main/A_gentle_introduction_to_the_study_of_mathematical_logic_via_doctrines.pdf'>An introduction to doctrines</a></li>
-<li> <a href='https://github.com/spadetto/spadetto.github.io/blob/main/TQFT.pdf'>An introduction to TQFT</a></li>
-<li> <a href='https://github.com/spadetto/spadetto.github.io/blob/main/Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf'>Master's thesis</a></li>
-<li> <a href='https://github.com/spadetto/spadetto.github.io/blob/main/Sciarade.pdf'>Some <em>sciarade</em> (charades)</a></li>
+<li> <a href='https://github.com/spadetto/spadetto.github.io/raw/main/A_gentle_introduction_to_the_study_of_mathematical_logic_via_doctrines.pdf'>An introduction to doctrines</a></li>
+<li> <a href='https://github.com/spadetto/spadetto.github.io/raw/main/TQFT.pdf'>An introduction to TQFT</a></li>
+<li> <a href='https://github.com/spadetto/spadetto.github.io/raw/main/Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf'>Master's thesis</a></li>
+<li> <a href='https://github.com/spadetto/spadetto.github.io/raw/main/Sciarade.pdf'>Some <em>sciarade</em> (charades)</a></li>
 <li> <a href="https://github.com/spadetto/spadetto.github.io/raw/main/Sciarade.pdf" target="_blank">Some <em>sciarade</em> (charades)</a></li>
 </ul>
 
