@@ -152,8 +152,6 @@ Click [here](CV.pdf) for a _curriculum vitae_ and [here](researchstatement.pdf) 
 <li> <a href='https://github.com/spadetto/spadetto.github.io/blob/main/TQFT.pdf'>An introduction to TQFT</a></li>
 <li> <a href='https://github.com/spadetto/spadetto.github.io/blob/main/Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf'>Master's thesis</a></li>
 <li> <a href='https://github.com/spadetto/spadetto.github.io/blob/main/Sciarade.pdf'>Some <em>sciarade</em> (charades)</a></li>
-<li> <a href='https://github.com/spadetto/spadetto.github.io/blob/main/CV.pdf'>Curriculum vitæ</a></li>
-<li> <a href='https://github.com/spadetto/spadetto.github.io/blob/main/researchstatement.pdf'>Research statement</a></li>
 </ul>
 
 </details>
