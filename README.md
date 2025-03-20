@@ -48,7 +48,7 @@ Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statemen
 <div style="margin-top: 10px;"></div>
 
 <ul>
-<li> <strong>[<em>Preprint</em>]</strong> <em>A biequivalence of path categories and axiomatic Martin Löf type theories</em>. October 2024. Together with Daniël Otten.</li>
+<li> <strong>[<em>Preprint</em>]</strong> <em>A biequivalence of path categories and axiomatic Martin Löf type theories</em>. <a href='https://arxiv.org/abs/2503.15431'>[2503.15431]</a>. October 2024. Together with Daniël Otten.</li>
 <li> <strong>[<em>Preprint</em>]</strong> <em>Towards propositional dependent sums in intensional and propositional dependent type theory</em>. January 2024.</li>
 <li> <strong>[<em>Preprint</em>]</strong> <em>Relating homotopy equivalences to conservativity in dependendent type theories with propositional computation</em> <a href='https://arxiv.org/abs/2303.05623v2'>[2303.05623v2]</a>. March 2023.</li>
 <li> <strong>[<em>Journal paper</em>]</strong> <em>Dialectica principles via Gödel doctrines</em> <a href='https://arxiv.org/abs/2205.07093'>[2205.07093v1]</a>. <a href='https://www.sciencedirect.com/science/article/pii/S0304397523000051?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=265759211&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM333744&utm_source=AC_'>Theoretical Computer Science</a>. May 2022. Together with Davide Trotta and Valeria de Paiva.</li>
