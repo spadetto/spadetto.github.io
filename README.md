@@ -48,6 +48,7 @@ Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statemen
 <div style="margin-top: 10px;"></div>
 
 <ul>
+<li> <strong>[<em>Preprint</em>]</strong> <em>Higher dimensional semantics of axiomatic dependent type theory</em>. <a href='https://github.com/spadetto/spadetto.github.io/raw/main/Higher_dimensional_semantics_of_axiomatic_dependent_type_theory (14).pdf'>Click here</a>. January 2025.</li>
 <li> <strong>[<em>Preprint</em>]</strong> <em>A biequivalence of path categories and axiomatic Martin Löf type theories</em>. <a href='https://arxiv.org/abs/2503.15431'>[2503.15431]</a>. October 2024. Together with Daniël Otten.</li>
 <li> <strong>[<em>Preprint</em>]</strong> <em>Towards propositional dependent sums in intensional and propositional dependent type theory</em>. January 2024.</li>
 <li> <strong>[<em>Preprint</em>]</strong> <em>Relating homotopy equivalences to conservativity in dependendent type theories with propositional computation</em> <a href='https://arxiv.org/abs/2303.05623v2'>[2303.05623v2]</a>. March 2023.</li>
