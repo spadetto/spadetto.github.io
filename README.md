@@ -54,27 +54,27 @@ Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statemen
 
 <li><strong>[<em>Preprint</em>]</strong> <em>Towards propositional dependent sums in intensional and propositional dependent type theory</em>. January 2024.</li>
 
-<li><strong>[<em>Preprint</em>]</strong> <em>The Gödel fibration (extended version)</em> <a href='https://arxiv.org/abs/2104.14021'>[2104.14021v1]</a>. April 2021. Together with Davide Trotta and Valeria de Paiva.</li>
+<li><strong>[<em>Preprint</em>]</strong> <em>The Gödel fibration (extended version)</em>. <a href='https://arxiv.org/abs/2104.14021'>[2104.14021v1]</a>. April 2021. Together with Davide Trotta and Valeria de Paiva.</li>
 
-<li><strong>[<em>Preprint</em>]</strong> <em>Quantifier completions, choice principles and applications</em> <a href='https://arxiv.org/abs/2010.09111v3'>[2010.09111v3]</a>. Submitted. October 2020. Together with Davide Trotta.</li>
+<li><strong>[<em>Preprint</em>]</strong> <em>Quantifier completions, choice principles and applications</em>. <a href='https://arxiv.org/abs/2010.09111v3'>[2010.09111v3]</a>. Submitted. October 2020. Together with Davide Trotta.</li>
 </ul>
 
 <ul>
-<li><strong>[<em>Journal paper</em>]</strong> <em>Relating homotopy equivalences to conservativity in dependendent type theories with propositional computation</em> <a href='https://arxiv.org/abs/2303.05623v2'>[2303.05623v2]</a>. Accepted for Logical Methods in Computer Science. June 2025.</li>
+<li><strong>[<em>Journal paper</em>]</strong> <em>Relating homotopy equivalences to conservativity in dependendent type theories with propositional computation</em>. <a href='https://arxiv.org/abs/2303.05623v2'>[2303.05623v2]</a>. Accepted for Logical Methods in Computer Science. June 2025.</li>
 
-<li><strong>[<em>Journal paper</em>]</strong> <em>Dialectica principles via Gödel doctrines</em> <a href='https://arxiv.org/abs/2205.07093'>[2205.07093v1]</a>. <a href='https://www.sciencedirect.com/science/article/pii/S0304397523000051?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=265759211&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM333744&utm_source=AC_'>Theoretical Computer Science</a>. February 2023. Together with Davide Trotta and Valeria de Paiva.</li>
+<li><strong>[<em>Journal paper</em>]</strong> <em>Dialectica principles via Gödel doctrines</em>. <a href='https://arxiv.org/abs/2205.07093'>[2205.07093v1]</a>. <a href='https://www.sciencedirect.com/science/article/pii/S0304397523000051?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=265759211&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM333744&utm_source=AC_'>Theoretical Computer Science</a>. February 2023. Together with Davide Trotta and Valeria de Paiva.</li>
 
 <li><strong>[<em>Journal paper</em>]</strong> <em>Dialectica logical principles: not only rules</em>. <a href='https://academic.oup.com/logcom/advance-article/doi/10.1093/logcom/exac079/6795172?searchresult=1'>Journal of Logic and Computation</a>. December 2022. Together with Davide Trotta and Valeria de Paiva.</li>
 </ul>
 
 <ul>
-<li><strong>[<em>Refereed conference paper</em>]</strong> <em>Dialectica logical principles</em> <a href='https://arxiv.org/abs/2109.08064'>[2109.08064v1]</a>. <a href='https://link.springer.com/chapter/10.1007/978-3-030-93100-1_22'>Logical Foundations of Computer Science 2022</a>. December 2021. Together with Davide Trotta and Valeria de Paiva.</li>
+<li><strong>[<em>Refereed conference paper</em>]</strong> <em>Dialectica logical principles</em>. <a href='https://arxiv.org/abs/2109.08064'>[2109.08064v1]</a>. <a href='https://link.springer.com/chapter/10.1007/978-3-030-93100-1_22'>Logical Foundations of Computer Science 2022</a>. December 2021. Together with Davide Trotta and Valeria de Paiva.</li>
 
 <li><strong>[<em>Refereed conference paper</em>]</strong> <em>The Gödel fibration</em>. <a href='https://drops.dagstuhl.de/opus/volltexte/2021/14527/'>Mathematical Foundations of Computer Science 2021</a>. August 2021. Together with Davide Trotta and Valeria de Paiva.</li>
 </ul>
 
 <ul>
-<li><strong>[<em>PhD thesis</em>]</strong> <em>On the syntax and the semantics of propositional dependent type theories</em> <a href='https://etheses.whiterose.ac.uk/35802/'>Click here</a>. July 2024.</li>
+<li><strong>[<em>PhD thesis</em>]</strong> <em>On the syntax and the semantics of propositional dependent type theories</em>. <a href='https://etheses.whiterose.ac.uk/35802/'>Click here</a>. July 2024.</li>
 </ul>
 
 </details>
