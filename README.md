@@ -73,6 +73,10 @@ Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statemen
 <li><strong>[<em>Refereed conference paper</em>]</strong> <em>The Gödel fibration</em>. <a href='https://drops.dagstuhl.de/opus/volltexte/2021/14527/'>Mathematical Foundations of Computer Science 2021</a>. August 2021. Together with Davide Trotta and Valeria de Paiva.</li>
 </ul>
 
+<ul>
+<li><strong>[<em>PhD thesis</em>]</strong> <em>On the syntax and the semantics of propositional dependent type theories</em> <a href='https://etheses.whiterose.ac.uk/35802/'>Click here</a>. July 2024.</li>
+</ul>
+
 </details>
 
 <div style="margin-top: 20px;"></div>
