@@ -2,7 +2,7 @@ My main research interests lies in the area of _homotopy type theory and semanti
 
 I have also been working on the notions of _hyperdoctrines_ and Grothendieck fibrations to approach the study of fragments of first-order logic, focusing on quantifier completions, the _dialectica construction_, and canonicity properties.
 
-Lately, I have also been working on topics connected to temporal logics and circular reasoning.
+Lately, I have also been working on topics connected to _temporal logics_ and _circular reasoning_.
 
 Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statement_](researchstatement.pdf).
 
