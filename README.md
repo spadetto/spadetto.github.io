@@ -62,7 +62,7 @@ Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statemen
 </ul>
 
 <ul>
-<li><strong>[<em>Journal paper</em>]</strong> <em>Relating homotopy equivalences to conservativity in dependendent type theories with propositional computation</em>. <a href='https://arxiv.org/abs/2303.05623v2'>[2303.05623v2]</a>. Accepted for Logical Methods in Computer Science. June 2025.</li>
+<li><strong>[<em>Journal paper</em>]</strong> <em>Relating homotopy equivalences to conservativity in dependendent type theories with propositional computation</em>. <a href='https://arxiv.org/abs/2303.05623v3'>[2303.05623v2]</a>. Accepted for Logical Methods in Computer Science. June 2025.</li>
 
 <li><strong>[<em>Journal paper</em>]</strong> <em>Dialectica principles via Gödel doctrines</em>. <a href='https://arxiv.org/abs/2205.07093'>[2205.07093v1]</a>. <a href='https://www.sciencedirect.com/science/article/pii/S0304397523000051?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=265759211&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM333744&utm_source=AC_'>Theoretical Computer Science</a>. February 2023. Together with Davide Trotta and Valeria de Paiva.</li>
 
