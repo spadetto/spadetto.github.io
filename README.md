@@ -8,7 +8,9 @@ Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statemen
 
 
 
+<br>
 
+##### ![1753490038723](1753490038723.jpg)
 
 <br>
 
