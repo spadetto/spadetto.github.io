@@ -18,7 +18,7 @@ Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statemen
 
 
 
-<details><summary><strong>Ongoing research.</strong></summary>
+<details><summary><strong>Ongoing research</strong></summary>
 
 <div style="margin-top: 10px;"></div>
 
@@ -206,4 +206,4 @@ Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statemen
 
 <br>
 
-##### ![cuckoo's](cuckoo's.jpg) _A portrait of me and my collaborator working together._
+##### ![cuckoo's](cuckoo's.jpg) _A portrait of me and my collaborator working together. One is deaf until the other begins to speak._
