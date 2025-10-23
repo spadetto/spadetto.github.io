@@ -206,4 +206,4 @@ Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statemen
 
 <br>
 
-##### ![cuckoo's](cuckoo's.jpg) _A portrait of me and my collaborator working together. One is deaf until the other begins to speak._
+##### ![cuckoo's](cuckoo's.jpg) _Me and my collaborator working together: one is deaf until the other begins to speak._
