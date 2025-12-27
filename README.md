@@ -55,8 +55,6 @@ Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statemen
 <div style="margin-top: 10px;"></div>
 
 <ul>
-<li><strong>[<em>Preprint</em>]</strong> <em>Higher dimensional semantics of axiomatic dependent type theory</em>. <a href='https://arxiv.org/abs/2507.07208'>[2507.07208]</a>. January 2025.</li>
-
 <li><strong>[<em>Preprint</em>]</strong> <em>Towards propositional dependent sums in intensional and propositional dependent type theory</em>. January 2024.</li>
 
 <li><strong>[<em>Preprint</em>]</strong> <em>The Gödel fibration (extended version)</em>. <a href='https://arxiv.org/abs/2104.14021'>[2104.14021v1]</a>. April 2021. Together with Davide Trotta and Valeria de Paiva.</li>
@@ -73,6 +71,8 @@ Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statemen
 </ul>
 
 <ul>
+<li><strong>[<em>Preprint</em>]</strong> <em>A 2-categorical approach to the semantics of dependent type theory with computation axioms</em>. <a href='https://arxiv.org/abs/2507.07208'>[2507.07208]</a>. Accepted for FoSSacs 2026. January 2025.</li>
+
 <li><strong>[<em>Refereed conference paper</em>]</strong> <em>The biequivalence of path categories and axiomatic Martin Löf type theories</em>. <a href='https://arxiv.org/abs/2503.15431'>[2503.15431]</a>. Accepted for Computer Science Logic 2026. October 2024. Together with Daniël Otten.</li>
 
 <li><strong>[<em>Refereed conference paper</em>]</strong> <em>Dialectica logical principles</em>. <a href='https://arxiv.org/abs/2109.08064'>[2109.08064v1]</a>. <a href='https://link.springer.com/chapter/10.1007/978-3-030-93100-1_22'>Logical Foundations of Computer Science 2022</a>. December 2021. Together with Davide Trotta and Valeria de Paiva.</li>
