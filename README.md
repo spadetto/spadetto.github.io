@@ -1,4 +1,4 @@
-Before joining Gallinette, I was a postdoc at the Dipartimento di Scienze Matematiche, Informatiche e Fisiche of the University of Udine, Italy, supervised by Marino Miculan.
+Before joining the Functional Programming Lab, I was a postdoc at Gallinette, LS2N (University of Nantes, France) supervised by Guilhem Jaber and at DMIF (University of Udine, Italy) supervised by Marino Miculan.
 
 My PhD thesis, completed at the School of Mathematics of the University of Leeds (UK), is in mathematical logic, dependent type theory, and categorical semantics. It was supervised by Nicola Gambino, <a href='https://lipn.univ-paris13.fr/~olimpieri/'>Federico Olimpieri</a>, and Michael Rathjen.
 
