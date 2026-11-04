@@ -23,7 +23,7 @@ Click [here for a _curriculum vitae_](CV.pdf) and [here for a _research statemen
 <div style="margin-top: 10px;"></div>
 
 <ul>
-<li> <em>Dialectica type theories</em>. Together with Valeria de Paiva, <a href='https://trottadavide.github.io/'>Davide Trotta</a>, and <a href='https://sites.google.com/view/jonathanweinberger'>Jonathan Weinberger</a>.</li>
+<li> <em>Dialectica type theories</em>. Together with <a href = 'https://vcvpaiva.github.io/'>Valeria de Paiva</a>, <a href='https://trottadavide.github.io/'>Davide Trotta</a>, and <a href='https://sites.google.com/view/jonathanweinberger'>Jonathan Weinberger</a>.</li>
 <li> <em>Semantics of Spatio-temporal logic</em>. Together with <a href='https://davidecaste.github.io/'>Davide Castelnovo</a> and Marino Miculan.</li>
 <li> <em>Constructive set theories within dependent type theory</em>. Together with <a href='https://sites.google.com/view/emanuelefrittaion/home'>Emanuele Frittaion</a>.</li>
 <li> <em>Type constructors as algebras</em>.</li>
